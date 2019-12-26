@@ -1,7 +1,7 @@
 # theme: jekyll-theme-time-machine
 # Site settings
 title: KosmosSakura # 你的博客名字，可以定义修订
-header-img: "img/ksk_red.jpg"
+header-img: "img/ksk_aoi_dark_4.png"
 tagline: "cn"  
 description: "赤夜染尽 千樱散落 零时夜雨 无茵之音"  # 一句话描述你的博客
 baseurl: ""
@@ -45,7 +45,7 @@ defaults:
     values:
       layout: "post"
       author: "Kosmos" # 你的名字
-      header-img: "img/ksk_red.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/ksk_aoi_dark_4.png" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Archive"
+title: "归档"
 description: "文章归档"
-header-img: "img/orange.jpg"
+header-img: "img/ksk_aoi_dark_3.png"
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "关于"
-description: "相关说明" 
-header-img: "img/ksk_aoi_dark_2.png"
+title: "工具"
+description: "一些小玩意" 
+header-img: "img/ksk_aoi_lite_4.png"
 ---
 
  Hatechan来自画师：Aoi Ogata，P站ID：[8782286](https://www.pixiv.net/member.php?id=8782286)
