@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Another"
-url: "https://kosmosakura.com"
+title: "另一个"
+link: "https://kosmosakura.com"
 ---
 
 
