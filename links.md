@@ -36,8 +36,9 @@ header-img: "img/ksk_aoi_dark_3.png"
                 <text style="color: #cfcbd7;">卡比比酱</text>
             </div>
         </a>
-    </div>
-    <div style="width: 100%; display: flex;font-size: small;    flex-direction: row;align-items: center;justify-content: center;">
+</div>
+
+<div style="width: 100%; display: flex;font-size: small;flex-direction: row;align-items: center;justify-content: center;">
         <!--坏鱼-->
         <a href="https://niconiconi.cc" target="_blank" rel="noopener noreferrer"
            style="text-decoration: none;display: flex;flex-direction: row;border-radius: 10%;outline: #5c5b68 dashed 1px;padding: 10px 30px 10px 30px;margin: 10px;">
@@ -68,8 +69,9 @@ header-img: "img/ksk_aoi_dark_3.png"
                 <text style="color: #cfcbd7;">JessieKate</text>
             </div>
         </a>
-    </div>
-    <div style="width: 100%; display: flex;font-size: small;    flex-direction: row;align-items: center;justify-content: center;">
+</div>
+
+<div style="width: 100%; display: flex;font-size: small;flex-direction: row;align-items: center;justify-content: center;">
         <!--路人甲的世界-->
         <a href="https://untitled.pw" target="_blank" rel="noopener noreferrer"
            style="text-decoration: none;display: flex;flex-direction: row;border-radius: 10%;outline: #5c5b68 dashed 1px;padding: 10px 30px 10px 30px;margin: 10px;">
