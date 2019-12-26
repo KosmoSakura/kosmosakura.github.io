@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "赤夜染尽 千樱散落 零时夜雨 无茵之音" 
 header-img: "img/green.jpg"
 ---
 
