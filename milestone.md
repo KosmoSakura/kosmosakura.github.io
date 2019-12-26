@@ -2,7 +2,7 @@
 layout: page
 title: "友链"
 description: "根据添加时间排序"
-header-img: "img/ksk_aoi_dark_1.png"
+header-img: "img/ksk_aoi_dark_3.png"
 ---
 
 <div style="color: #5c5b68;background-size: cover;display: flex;flex-direction: column;
