@@ -5,7 +5,8 @@ description: "根据添加时间排序"
 header-img: "img/ksk_aoi_dark_3.png"
 ---
 
-<div style="width: 100%; display: flex;font-size: small;    flex-direction: row;align-items: center;justify-content: center;">
+<div style="color: #5c5b68;background-size: cover;display: flex;flex-direction: column;align-items: center;justify-content: center;">
+    <div style="width: 100%; display: flex;font-size: small;flex-direction: row;align-items: center;justify-content: center;">
         <!--阿阿阿阿阿云-->
         <a href="https://www.yeboyun.cn" target="_blank" rel="noopener noreferrer"
            style="text-decoration: none;display: flex;flex-direction: row;border-radius: 10%;outline: #5c5b68 dashed 1px;padding: 10px 30px 10px 30px;margin: 10px;">
@@ -36,9 +37,8 @@ header-img: "img/ksk_aoi_dark_3.png"
                 <text style="color: #cfcbd7;">卡比比酱</text>
             </div>
         </a>
-</div>
-
-<div style="width: 100%; display: flex;font-size: small;flex-direction: row;align-items: center;justify-content: center;">
+    </div>
+    <div style="width: 100%; display: flex;font-size: small;flex-direction: row;align-items: center;justify-content: center;">
         <!--坏鱼-->
         <a href="https://niconiconi.cc" target="_blank" rel="noopener noreferrer"
            style="text-decoration: none;display: flex;flex-direction: row;border-radius: 10%;outline: #5c5b68 dashed 1px;padding: 10px 30px 10px 30px;margin: 10px;">
@@ -69,9 +69,8 @@ header-img: "img/ksk_aoi_dark_3.png"
                 <text style="color: #cfcbd7;">JessieKate</text>
             </div>
         </a>
-</div>
-
-<div style="width: 100%; display: flex;font-size: small;flex-direction: row;align-items: center;justify-content: center;">
+    </div>
+    <div style="width: 100%; display: flex;font-size: small;flex-direction: row;align-items: center;justify-content: center;">
         <!--路人甲的世界-->
         <a href="https://untitled.pw" target="_blank" rel="noopener noreferrer"
            style="text-decoration: none;display: flex;flex-direction: row;border-radius: 10%;outline: #5c5b68 dashed 1px;padding: 10px 30px 10px 30px;margin: 10px;">
@@ -92,7 +91,6 @@ header-img: "img/ksk_aoi_dark_3.png"
                 <text style="color: #cfcbd7;">博客的另一个地址</text>
             </div>
         </a>
+    </div>
 </div>
-
-
 
